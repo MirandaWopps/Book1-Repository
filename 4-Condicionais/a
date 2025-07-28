@@ -1,0 +1,14 @@
+1- O usuario de um sistema esta logado ou nao ?
+2- A maioridade penal é 16. Verifique se alguém com 15 é maior de idade.
+3- Verifique se um número qualquer é igual a 0.
+4- Um aluno tem frequência e nota. Você atribuirá esses números as variáveis a serem comparadas.
+Se a nota for maior ou igual a 6 e frequência maior ou igual a 75 acontece uma aprovação, do 
+contrário, uma reprovação.
+5- Existem 2 números especiais num sorteio: 10 ou 20. Verifique se um número é especial.
+6- Um ambiente tem temperatura e umidade medidas. Se a temperatura for maior que 30 graus é 
+necessário dizer o clima em relação a umidade: menor que 50 indique quente e seco, do contrário, diga que está quente e úmido. Claro, se a temperatura for menor que 30 apenas indique que a temperatura está agradável.
+7- Verifique se um número é par ou ímpar.
+
+As entradas, isto é, os valores que serão comparados vem da sua criatividade: você inventa.
+É normal existir mais de uma forma de fazer 1 código certo, então, basta atingir o que é preciso, no caso, o que enunciado pede.
+Respostas para comparação no gabarito.

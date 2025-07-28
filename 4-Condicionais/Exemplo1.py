@@ -49,12 +49,14 @@ if livros == 2:
     else:
         print("Livros é ímpar !")
 
+#9 Estrutura com operador condicional 'and'. Se tudo que está na esquerda e na direita do
+#operador 'and' for verdade, então a condição é TRUE. Se 1 for FALSE não executará.
+if livros > 1 and livros >= 3: # >= Significa que será verdade(TRUE) se livros for maior
+# ou igual a 3.
+    print("Print 9: livros é maior que 1 e maior ou igual a 3.")
 
 
-
-
-
-
-
-
-
+#10 Estrutura com operador condicional 'or'. Se pelo menos 1 condição que está na esquerda e # na direita do operador 'and' for verdade, então a condição é TRUE. Se os 2 forem falses
+# a execução não ocorre.
+if livros > 1 or livros >= 3:
+    print("Print 10: livros é maior que 1 e maior ou igual a 3.")
